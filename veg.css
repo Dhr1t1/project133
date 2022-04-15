@@ -1,0 +1,23 @@
+body{
+    background-size: cover;
+}
+
+#heading{
+   margin: 0px;
+   width: 100%;
+   font-size: 20px;
+}
+a{
+    width: 50px;
+    background: black;
+    padding: 7px;
+    border-radius: 5px;
+    color: white;
+    float: right;
+}
+
+canvas{
+    border: 5px solid black;
+    border-radius: 5px;
+    margin: 10px;
+}
